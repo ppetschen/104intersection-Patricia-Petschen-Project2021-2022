@@ -13,15 +13,22 @@ a parallel vector.
 
 O being the origin of the coordinate system, and X, Y and Z the axis, the surfaces that must be handled
 in this project are:
+
 • O-centered spheres,
+
 • Cylinders of revolution around Z axis,
+
 • Cones of revolution around Z axis whose apex is O
+
 
 tests: 80% Passed.
 
 1-Rigor 73.7% Passed.
+
 2-Sphere 100% Passed.
+
 3-Cylinder 77.8% Passed.
+
 4-Cone 80% Passed.
 
 
