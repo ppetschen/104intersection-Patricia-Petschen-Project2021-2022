@@ -1,5 +1,5 @@
 # 104intersection-Patricia-Petschen-project2021-2022
-Third dimension and quadratic equations
+Maths project in Python - Third dimension and quadratic equations
 
 To create synthesis images (when doing ray tracing, for example), potential intersection points between
 light rays and scene objects (here cylinders, spheres and cones) must be computed. This is exactly what
